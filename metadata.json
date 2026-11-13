@@ -1,0 +1,6 @@
+{
+  "name": "NovaMart Premium E-Commerce",
+  "description": "Full-stack modern e-commerce platform with React, Express, JWT authentication, product catalog, cart, checkout, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
